@@ -32,7 +32,7 @@ Server oder ein gefälschtes Manifest kann kein Update einschleusen.
 
 ## Lizenz
 
-Proprietary Commercial Software — Copyright (c) 2026 Kevin Seipel.
+Proprietary Commercial Software — Copyright (c) 2026 Marina Seipel.
 Alle Rechte vorbehalten. Der Download der Installer ist frei; die Nutzung
 ist durch die Lizenzvereinbarung und einen gültigen Lizenzschlüssel geregelt.
 
